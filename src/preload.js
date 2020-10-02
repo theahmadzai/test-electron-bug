@@ -1,0 +1,1 @@
+const { APP } = require('./constants')
